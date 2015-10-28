@@ -6,5 +6,6 @@ resources :articles do
 
 end
 resources :tags
+resources :authors
 
 end
